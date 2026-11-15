@@ -1,0 +1,26 @@
+====================================================================
+
+Author: Mohamed BEN ALI
+
+Major: Artificial Intelligence
+
+Specialization: Data Analyst
+
+Group: 201
+
+
+====================================================================
+
+               INFORMATIONS ET MÉTADONNÉES DU PROJET
+
+====================================================================
+
+PROJECT NAME           : Design Power BI reports (concevoir des états Power BI)
+
+FIELD                  : Data Science / Data Analyst 
+
+CREATION DATE  	       : November(11) 12/ 2026 9:49
+
+PUBLICATION DATE       : November(11) 15/ 2026, 16:35
+
+====================================================================
