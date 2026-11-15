@@ -56,7 +56,7 @@ I am **Mohamed BEN ALI**, an **Artificial Intelligence** student specializing in
 
 *  **LinkedIn:** [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/) 
 *  **GitHub:** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
-*  **Kaggle:** [@your-username](https://www.kaggle.com/mbaitri)
+*  **Kaggle:** [mbaitri](https://www.kaggle.com/mbaitri)
 *  **Roadmap.sh (Data Analyst / AI Path):** [My Roadmap Profile](https://roadmap.sh/u/benalimohamed)
 ---
 *Project completed as part of the Data Analyst curriculum & PL-300 Certification Prep — November 2026.*
