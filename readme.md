@@ -1,4 +1,4 @@
-# 📊 Design Power BI Reports | PL-300: Microsoft Power BI Data Analyst
+#  Design Power BI Reports | PL-300: Microsoft Power BI Data Analyst
 
 ##  Project Information & Metadata
 
