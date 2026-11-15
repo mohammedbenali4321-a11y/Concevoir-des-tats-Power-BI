@@ -55,7 +55,7 @@ Through this hands-on lab, the following core skills are demonstrated:
 I am **Mohamed BEN ALI**, an **Artificial Intelligence** student specializing in **Data Analysis** (Group 201). Feel free to connect or reach out to discuss Data, Business Intelligence, and AI!
 
 *  **LinkedIn:** [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m/) 
-*  **GitHub:** [@your-username](https://github.com/mohammedbenali4321-a11y)
+*  **GitHub:** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
 *  **Kaggle:** [@your-username](https://www.kaggle.com/mbaitri)
 *  **Roadmap.sh (Data Analyst / AI Path):** [My Roadmap Profile](https://roadmap.sh/u/benalimohamed)
 ---
